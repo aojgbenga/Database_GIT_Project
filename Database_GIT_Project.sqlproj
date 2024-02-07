@@ -75,5 +75,6 @@
     <Build Include="dbo\User Defined Types\table_definition_type.sql" />
     <Build Include="Security\Config.sql" />
     <Build Include="Security\Permissions.sql" />
+    <Build Include="dbo\Tables\OrderTable1.sql" />
   </ItemGroup>
 </Project>
